@@ -16,6 +16,9 @@
 ### *Team: This table may contain information about different teams or groups, with fields like TeamID and TeamName.
 ### *Country: This table stores country information, with CountryID as the primary key and Country as the descriptive field.
 
+# Inspiration:
+### To explore and understand the distribution patterns and logistics involved in the pharmaceutical supply chain. This analysis can help identify bottlenecks, streamline operations, and ensure timely and efficient delivery of life-saving medications to patients. Additionally, it can provide insights into customer behavior, product demand, and inventory management, ultimately contributing to better healthcare outcomes and cost optimization.
+
 # Data visualization:
 ## Power bi:
 ![Screenshot 2024-03-24 175113](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/b52cd1c1-c4cd-4cb9-baca-64a72ffe9228)
@@ -32,6 +35,4 @@
 
 
 
-# Inspiration
 
-### To explore and understand the distribution patterns and logistics involved in the pharmaceutical supply chain. This analysis can help identify bottlenecks, streamline operations, and ensure timely and efficient delivery of life-saving medications to patients. Additionally, it can provide insights into customer behavior, product demand, and inventory management, ultimately contributing to better healthcare outcomes and cost optimization.
