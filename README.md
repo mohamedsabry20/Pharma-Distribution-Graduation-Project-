@@ -32,14 +32,6 @@
 
 
 
-
-
-
-
-
-
-
-
 # Inspiration
 
 ### To explore and understand the distribution patterns and logistics involved in the pharmaceutical supply chain. This analysis can help identify bottlenecks, streamline operations, and ensure timely and efficient delivery of life-saving medications to patients. Additionally, it can provide insights into customer behavior, product demand, and inventory management, ultimately contributing to better healthcare outcomes and cost optimization.
