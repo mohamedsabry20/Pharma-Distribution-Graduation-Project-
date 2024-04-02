@@ -16,6 +16,29 @@
 ### *Team: This table may contain information about different teams or groups, with fields like TeamID and TeamName.
 ### *Country: This table stores country information, with CountryID as the primary key and Country as the descriptive field.
 
+# Data visualization:
+## Power bi:
+![Screenshot 2024-03-24 175113](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/b52cd1c1-c4cd-4cb9-baca-64a72ffe9228)
+![Screenshot 2024-03-24 175129](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/5def4b69-1c16-4dfa-8ed3-e3ac64b656f2)
+![Screenshot 2024-03-24 175145](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/b34674b3-9e59-483c-9f54-26d2adc99ca6)
+![Screenshot 2024-03-24 175225](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/77df21ae-fb0c-4bae-8e0a-a5106407a2ea)
+![Screenshot 2024-03-24 175239](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/af417785-898f-46e3-b040-275e6eda7d9c)
+## Tableau:
+![Screenshot 2024-03-22 022357](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/3ab2c444-7c31-462a-b41d-072c1fe96b8a)
+![Screenshot 2024-03-22 022415](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/f57a628e-0c2b-4d55-adcb-3c5716d1488a)
+![Screenshot 2024-03-22 022430](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/86d870f7-b0f0-453f-9ccd-58d91a7d3768)
+![Screenshot 2024-03-22 142731](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/74891600-caef-4139-ba36-eac61fe4c45b)
+![Screenshot 2024-03-22 022504](https://github.com/mohamedsabry20/Pharma-Distribution-Graduation-Project-in-ITI/assets/155188606/2ba99d01-033c-4e1f-9fff-46ba58691c97)
+
+
+
+
+
+
+
+
+
+
 
 # Inspiration
 
